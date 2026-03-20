@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="avatar.svg" width="160" height="160" alt="avatar" />
+  <img src="profile/avatar.svg" width="160" height="160" alt="avatar" />
 
   <h2>DarkXero</h2>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Linux+Developer+%26+Open+Source+Maintainer;Arch+Enthusiast+%7C+KDE+Plasma+Customizer;Building+tools+that+just+work." alt="Typing SVG" />
 
-  <br /><br />
+  <br />
 
   <a href="https://github.com/XeroLinux">
     <img src="https://img.shields.io/badge/XeroLinux-181717?style=for-the-badge&logo=github&logoColor=white" />

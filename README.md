@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+
 <h1 align="center">XeroLinux Maintainer Home</h1>
 
 <br />
@@ -33,3 +35,5 @@
 ## [.:: Steve's War Fundraiser ::.](https://fundrazr.com/XeroLinux?ref=ab_eBckkc)
 
 </div>
+
+<!--END_SECTION:waka-->

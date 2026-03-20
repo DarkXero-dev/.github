@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="kernelinux.webp" alt="Logo" width="80" height="80">
+<img src="kernelinux.webp" alt="Logo">
 
 </div>
 

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="profile/avatar.svg" width="160" height="160" alt="avatar" />
 
-  <h2>DarkXero</h2>
+  <h1>.:: DarkXero Dev ::.</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Linux+Developer+%26+Open+Source+Maintainer;Arch+Enthusiast+%7C+KDE+Plasma+Customizer;Building+tools+that+just+work." alt="Typing SVG" />
 
